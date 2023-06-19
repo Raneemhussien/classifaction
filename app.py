@@ -50,8 +50,9 @@ def predict():
         sensoerdata['mintempC'],
         sensoerdata['maxtempC'],
         sensoerdata['temperature'],
-        sensoerdata['ppm'],
-        sensoerdata['pm'],
+        sensoerdata['pm25'],
+        sensoerdata['pm10'],
+    ]
     ]
 
     # Extract the dictionary from the list
