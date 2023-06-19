@@ -53,7 +53,7 @@ def predict():
         sensoerdata['pm25'],
         sensoerdata['pm10'],
     ]
-    ]
+    
 
     # Extract the dictionary from the list
 
